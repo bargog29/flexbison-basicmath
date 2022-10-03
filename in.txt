@@ -1,0 +1,45 @@
+a=2*5;
+b=200;
+c=400/2;
+d=200+100;
+E=2+5-4;
+G=10;
+H=20;
+
+G--;
+print(G);
+G--;
+write G;
+
+/*
+NFJKDNDJFKNSDJGBSDJGDL
+*/
+
+if(a>9)
+{
+    print(a);
+}
+else
+{
+    print(b);
+}
+
+// acesta de un comentariu
+
+while(c<205)
+{
+    print(c++);
+}
+
+do
+{
+    ++d;
+    d++;
+    print(d);
+}while(d<310);
+write d;
+
+for(f=1; f<=20 ; f++)
+{
+    write f*E;
+}
